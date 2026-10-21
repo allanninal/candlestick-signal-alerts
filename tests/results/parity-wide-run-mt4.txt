@@ -1,0 +1,27 @@
+PASS cd_default_BTCUSD_H1           bars  15527 scanned 15526 pattern bars  3866  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_BTCUSD_H4           bars   3882 scanned  3881 pattern bars   922  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_BTCUSD_M15          bars  62085 scanned 62084 pattern bars 16031  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_EURUSD_H1           bars  10998 scanned 10997 pattern bars  2632  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_EURUSD_H4           bars   2754 scanned  2753 pattern bars   589  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_EURUSD_M15          bars  43980 scanned 43979 pattern bars 10690  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_GBPJPY_H1           bars  10997 scanned 10996 pattern bars  2384  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_GBPJPY_H4           bars   2754 scanned  2753 pattern bars   592  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_GBPJPY_M15          bars  43978 scanned 43977 pattern bars 10636  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_XAUUSD_H1           bars  10444 scanned 10443 pattern bars  2286  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_XAUUSD_H4           bars   2730 scanned  2729 pattern bars   617  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_XAUUSD_M15          bars  41751 scanned 41750 pattern bars  9980  b0 OK b1 OK b2 OK b3 OK
+PASS cd_default_ticks_EURUSD_H1     bars   5813 scanned  5812 pattern bars  1383  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_BTCUSD_H1              bars  15527 scanned 15526 pattern bars  3309  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_BTCUSD_H4              bars   3882 scanned  3881 pattern bars   806  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_BTCUSD_M15             bars  62085 scanned 62084 pattern bars 14305  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_EURUSD_H1              bars  10998 scanned 10997 pattern bars  2222  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_EURUSD_H4              bars   2754 scanned  2753 pattern bars   500  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_EURUSD_M15             bars  43980 scanned 43979 pattern bars  9164  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_GBPJPY_H1              bars  10997 scanned 10996 pattern bars  1981  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_GBPJPY_H4              bars   2754 scanned  2753 pattern bars   495  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_GBPJPY_M15             bars  43978 scanned 43977 pattern bars  8914  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_XAUUSD_H1              bars  10444 scanned 10443 pattern bars  1939  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_XAUUSD_H4              bars   2730 scanned  2729 pattern bars   511  b0 OK b1 OK b2 OK b3 OK
+PASS cd_long_XAUUSD_M15             bars  41751 scanned 41750 pattern bars  8410  b0 OK b1 OK b2 OK b3 OK
+
+ALL PASS (25 files)

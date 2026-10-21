@@ -1,0 +1,2 @@
+cd_default	InpDoji=true,InpHistory=2000
+cd_long	InpDoji=false,InpHistory=6000

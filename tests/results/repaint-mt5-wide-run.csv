@@ -1,0 +1,10 @@
+indicator,Candles\CandlePatterns
+params,s:Patterns|b:true|b:true|b:true|b:true|b:true|b:true|b:true|s:Display|i:2000|b:true|c:6465062|c:4606690|i:7|s:Alerts|b:false|b:false|s:alert.wav|b:false|b:false
+symbol,EURUSD
+period,PERIOD_H1
+ticks,10411052
+bars_checked,4644
+signals,1114
+changed_after_close,0
+live_bar_signals,0
+DONE

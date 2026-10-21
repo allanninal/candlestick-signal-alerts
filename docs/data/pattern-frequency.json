@@ -1,0 +1,38 @@
+{
+ "timeframe": "H1",
+ "closed_bars": 375988,
+ "per_symbol": {
+  "BTCUSD": {
+   "bars": 84307,
+   "marks": 23844
+  },
+  "EURUSD": {
+   "bars": 99999,
+   "marks": 26147
+  },
+  "GBPJPY": {
+   "bars": 99999,
+   "marks": 25641
+  },
+  "XAUUSD": {
+   "bars": 91683,
+   "marks": 22390
+  }
+ },
+ "marks_per_1000_bars": {
+  "Bullish Engulfing": 38.6,
+  "Bearish Engulfing": 39.9,
+  "Hammer": 16.1,
+  "Hanging Man": 15.8,
+  "Inverted Hammer": 12.4,
+  "Shooting Star": 15.0,
+  "Doji": 43.6,
+  "Morning Star": 5.6,
+  "Evening Star": 5.9,
+  "Bullish Harami": 23.8,
+  "Bearish Harami": 26.6,
+  "Piercing Line": 8.8,
+  "Dark Cloud Cover": 8.7
+ },
+ "marks_per_1000_bars_total": 260.7
+}
